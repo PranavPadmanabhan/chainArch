@@ -1,4 +1,4 @@
-#  ChainArch Automation Interface
+#  ChainArch Smart Contract Automation
 
 ## Installation
 
