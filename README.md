@@ -19,7 +19,7 @@ pragma solidity ^0.8.7;
 import "chainarch/interfaces/automationInterface.sol"
 
 
-contract Counter is AutomationInterface{
+contract Counter is Automatable{
 
     uint public count;
     uint s_lastTimeStamp;
