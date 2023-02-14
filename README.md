@@ -16,7 +16,7 @@ $ npm install chainarch --save
 
 pragma solidity ^0.8.7;
 
-import "chain-arch/interfaces/automationInterface.sol"
+import "chainarch/interfaces/automationInterface.sol"
 
 
 contract Counter is AutomationInterface{
