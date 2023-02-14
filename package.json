@@ -1,5 +1,5 @@
 {
-  "name": "chain-arch",
+  "name": "chainarch",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,6 +9,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "keywords": ["chainarch","automation","chain","arch","interface","automationInterface"],
   "author": "chainArch",
-  "license": "ISC"
+  "license": "MIT"
 }

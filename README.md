@@ -2,10 +2,12 @@
 
 ## Installation
 
-`` npm install chain-arch``
-
-`` yarn add chain-arch ``
-
+```sh
+# via Yarn
+$ yarn add chainarch
+# via npm
+$ npm install chainarch --save
+```
 
 ## Usage 
 

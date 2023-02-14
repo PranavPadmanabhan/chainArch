@@ -2,7 +2,7 @@
 
 pragma solidity ^0.8.7;
 
-interface AutomationInterface {
+interface Automatable {
     function checkAutomationStatus() external view returns (bool);
 
     function automate() external;
