@@ -1,5 +1,5 @@
 {
-  "name": "@chain-arch/contracts",
+  "name": "chain-arch",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",

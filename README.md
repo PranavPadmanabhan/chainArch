@@ -2,9 +2,9 @@
 
 ## Installation
 
-`` npm install @chain-arch/contracts``
+`` npm install chain-arch``
 
-`` yarn add @chain-arch/contracts ``
+`` yarn add chain-arch ``
 
 
 ## Usage 
@@ -14,7 +14,7 @@
 
 pragma solidity ^0.8.7;
 
-import "@chain-arch/contracts/interfaces/automationInterface.sol"
+import "chain-arch/interfaces/automationInterface.sol"
 
 
 contract Counter is AutomationInterface{
@@ -45,6 +45,6 @@ contract Counter is AutomationInterface{
         increment();
         s_lastTimeStamp = block.timestamp;
    }
-   
+
 }
 ```
