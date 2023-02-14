@@ -9,7 +9,7 @@
 
 ## Usage 
 
-`` 
+``` 
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.7;
 
@@ -40,4 +40,4 @@ contract Counter is AutomationInterface{
         s_lastTimeStamp = block.timestamp;
    }
 }
-``
+```
