@@ -4,9 +4,9 @@
 
 ```sh
 # via Yarn
-$ yarn add chainarch
+$ yarn add chain-arch
 # via npm
-$ npm install chainarch --save
+$ npm install chain-arch --save
 ```
 
 ## Usage 
@@ -16,7 +16,7 @@ $ npm install chainarch --save
 
 pragma solidity ^0.8.7;
 
-import "chainarch/interfaces/automationInterface.sol";
+import "chain-arch/interfaces/automationInterface.sol";
 
 
 contract Counter is Automatable{
